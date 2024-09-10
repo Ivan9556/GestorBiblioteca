@@ -23,7 +23,7 @@ public class GestorBiblioteca {
         int opcion;
         ObjectContainer bd = null;
        //Inicio del programa
-        System.out.println("Bienvenido a la Bibliteca.e");
+        System.out.println("¡Bienvenido!");
         System.out.println("Para interactuar con el gestor utilice los numeros del teclado y pulse enter.");
         System.out.println("");
         try {
